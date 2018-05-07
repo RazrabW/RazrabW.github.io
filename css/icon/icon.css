@@ -1,10 +1,10 @@
 @font-face {
       font-family: 'git';
-      src: url('../font/git.eot?57362010');
-      src: url('../font/git.eot?57362010#iefix') format('embedded-opentype'),
-           url('../font/git.woff?57362010') format('woff'),
-           url('../font/git.ttf?57362010') format('truetype'),
-           url('../font/git.svg?57362010#git') format('svg');
+      src: url('../../font/git.eot?57362010');
+      src: url('../../font/git.eot?57362010#iefix') format('embedded-opentype'),
+           url('../../font/git.woff?57362010') format('woff'),
+           url('../../font/git.ttf?57362010') format('truetype'),
+           url('../../font/git.svg?57362010#git') format('svg');
       font-weight: normal;
       font-style: normal;
     }

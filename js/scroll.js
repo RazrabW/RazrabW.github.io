@@ -1,6 +1,4 @@
-$(document).ready(function(){
-    $('.go').click( function(){
-
+document.querySelector('.go').onclick = () => {
     var scroll_el = $(this).attr('href');
 
     if ($(scroll_el).length != 0) {
@@ -8,5 +6,4 @@ $(document).ready(function(){
     }
         
     return false;
-    });
-});
+}
