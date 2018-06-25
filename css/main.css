@@ -35,6 +35,12 @@ p {
     text-align: left;
     padding: 15px;
 }
+
+/* LIST */
+.list {
+    font-family: 'Raleway', sans-serif;
+}
+
 /* BUTTONS */
 .btn {
     border: 2px solid white;
